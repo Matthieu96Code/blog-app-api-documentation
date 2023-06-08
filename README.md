@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Clinic Database] <a name="about-project"></a>
+# 📖 [Blog App] <a name="about-project"></a>
 
 **[Blog App]** is a project about creating the a blog application for a clinic using a schema diagram. Database contains tables of users, comments' likes,  and authors. Built with PostgresSQL.
 
