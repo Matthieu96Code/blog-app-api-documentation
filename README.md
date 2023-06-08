@@ -33,21 +33,6 @@
 - PostgreSQL
 - MySQL
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -56,7 +41,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[ Data model]**
+- **[Posts table]**
+
+- **[Likes table]**
+
+- **[Comments table]**
+
+- **[Authors table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +71,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`cd my-folder git clone https://github.com/mumo-esther/Clinic-DB.git`
+`cd my-folder git clone https://github.com/mumo-esther/Blog-App.git`
 
 ### Install
 
@@ -98,18 +89,6 @@ To run the project, execute the following command:
 ```sh
   rails server
 ```
-
-### Run tests
-
-To run tests, run the following command:
-
-`sh bin/rails test test/models/article_test.rb`
-
-### Deployment
-
-You can deploy this project using:
-`render`, `heroku`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
