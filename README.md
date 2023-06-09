@@ -30,8 +30,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- PostgreSQL
-- MySQL
+- Ruby 
+- Rails
 
 <summary>Database</summary>
   <ul>
